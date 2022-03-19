@@ -1,6 +1,6 @@
 # Functional Programing in Java , using Streams   ( using Pokemons  example)
 
-Project main purpose to use FunctionalPrograming because it avoid concepts of shared state, mutable data observed in Object Oriented Programming. 
+Project main purpose is  to use FunctionalPrograming because it avoid concepts of shared state, mutable data observed in Object Oriented Programming. 
 
  Stream API is used to proces collections of object : LIST,SET,MAP, being a sequence of objects that supports various methods to produce te desired result
 
