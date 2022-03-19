@@ -1,4 +1,6 @@
-# Functional Programing , using Streams   ( using Pokemons  example)
+# Functional Programing in Java , using Streams   ( using Pokemons  example)
+
+Project main purpose to use FunctionalPrograming because it avoid concepts of shared state, mutable data observed in Object Oriented Programming. 
 
  Stream API is used to proces collections of object : LIST,SET,MAP, being a sequence of objects that supports various methods to produce te desired result
 
@@ -25,5 +27,7 @@ when we have Terminal Operations
  Consumer = accepts a single argument and return no result because is a consumer, has method accept(T t) , andThen() . ( terminal) 
 
  Suplier  =  does not take in any argument but produces a value of type T , has as method get() .(terminal )
+ 
+ https://www.geeksforgeeks.org/functional-programming-paradigm/
 
 
